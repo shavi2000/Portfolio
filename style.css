@@ -102,10 +102,10 @@ section {
     padding-top: 300px;
 }
 .main-content h4{
-    font-size: var(--h4-font);
+    font-size: 32px;
 }
 .main-content h1{
-    font-size: 32px;
+    font-size: 48px;
     font-weight: 900;
     margin: 20px 0px 20px;
     line-height: 1.2;
